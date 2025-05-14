@@ -1,4 +1,4 @@
-# GreenEats Website Development-Assignement
+# GreenEats Website Development-Assignment
 
 Assignment Task and Description 
 Create a static website (HTML/CSS/JS) with the following 6 pages maximum:
